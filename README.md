@@ -1,8 +1,7 @@
 ## HELLO WORLD!! 👋
 
-<img src="ore5.gif" height="190" />
+![Demo del proyecto](ore5.gif)
 <img src="giphyrei2.gif" width="275"/>
-<img src="ore2.gif" height="190" />
 
 
 
