@@ -1,5 +1,5 @@
 ## HELLO WORLD! //
-## Orlando Del Angel 🫡
+## ORLANDO DEL ANGEL 🫡
 
 ![Demo del proyecto](ore5.gif)
 <img src="giphyrei2.gif" width="275"/>
