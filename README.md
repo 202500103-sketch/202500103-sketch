@@ -1,4 +1,4 @@
-## HELLO WORLD!! 👋
+## HELLO WORLD! //
 
 ![Demo del proyecto](ore5.gif)
 <img src="giphyrei2.gif" width="275"/>
