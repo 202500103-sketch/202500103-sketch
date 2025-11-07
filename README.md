@@ -1,6 +1,5 @@
-## HELLO WORLD! //
-## ORLANDO DEL ANGEL 🫡
-
+## HELLO WORLD! my name is ORLANDO DEL ANGEL 🫡//
+## Aprendiendo a usar github.... me gusta previzualizar el codigo 8-)
 ![Demo del proyecto](ore5.gif)
 <img src="giphyrei2.gif" width="275"/>
 
